@@ -1,0 +1,25 @@
+{
+  "name": "schooly",
+  "version": "1.0.0",
+  "description": "create your own visual school here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhamdadel/schooly.git"
+  },
+  "keywords": [
+    "school",
+    "live-stream",
+    "lms",
+    "online-exam"
+  ],
+  "author": "Muhammed Adel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhamdadel/schooly/issues"
+  },
+  "homepage": "https://github.com/mhamdadel/schooly#readme"
+}
